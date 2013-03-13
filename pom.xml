@@ -6,7 +6,7 @@
   <artifactId>resume-app</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>resume-app</name>
+  <name>resume</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -183,7 +183,7 @@
 		</repository>
 	</repositories>
   <build>
-		<finalName>resume-app</finalName>
+		<finalName>resume</finalName>
 		<plugins>
 
 			<plugin>
